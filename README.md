@@ -1,4 +1,4 @@
-# AWS Cloud Lab
+# Azure Cloud Lab
 
 :)  HI !
 
@@ -7,8 +7,10 @@ NO NEED TO WORRY, I AM CONSTANTLY WORKING TOWARDS COMPLETING THIS PRODUCT.
 
 PLEASE, REVIST ME SOON !
 
+## What is Azure?
 
+## Skills Acquired
 
 ## Resources
 
-- <a href="https://aws.amazon.com/training/digital/">AWS Training</a>
+<a href="https://learn.microsoft.com/en-us/training/browse/?products=azure%2Csql-server%2Cwindows-server">Azure Training</a> | <a href="https://www.youtube.com/" target="_blank">YouTube</a>
